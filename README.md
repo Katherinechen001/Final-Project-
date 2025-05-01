@@ -1,5 +1,4 @@
-# Final-Project-
-Katherine Chen 93
+# Final-Project-Katherine Chen 93
 ## 1. Introduction
 US house prices are affected by a range of factors. This project explores the key factors that
 influence US house prices. I will use several regression techniques, including Ridge Regression, Linear Regression, Lasso Regression, Elastic Net, and K Neighbors Regressor, and then evaluate
